@@ -1,7 +1,8 @@
 # zbx-agent-install
 
 📝 Cara Pakai Quick:
-bash# Download improved script
+
+bash# Download script
 
 git clone https://github.com/irfanharis/zbx-agent-install-improved.git
 
