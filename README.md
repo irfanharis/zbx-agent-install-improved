@@ -2,8 +2,11 @@
 
 📝 Cara Pakai Quick:
 bash# Download improved script
+
 git clone https://github.com/irfanharis/zbx-agent-install-improved.git
+
 cd zabbix-agent-installer
+
 chmod +x install-zabbix-agent.sh
 
 # Basic install
